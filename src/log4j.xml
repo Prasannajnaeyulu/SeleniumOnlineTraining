@@ -21,7 +21,7 @@
 	</appender>
 
 	<root>
-		<level value="INFO" />  <!-- INFO, WARN and ERROR -->
+		<level value="DEBUG" />  <!-- INFO, WARN and ERROR -->
 		<appender-ref ref="console" />
 		<appender-ref ref="file" />
 	</root>
